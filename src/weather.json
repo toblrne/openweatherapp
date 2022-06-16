@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": -122.2728,
+        "lat": 37.8716
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 286.73,
+        "feels_like": 286.1,
+        "temp_min": 283.61,
+        "temp_max": 290.31,
+        "pressure": 1013,
+        "humidity": 75
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.24,
+        "deg": 136,
+        "gust": 4.92
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1655359126,
+    "sys": {
+        "type": 2,
+        "id": 2037811,
+        "country": "US",
+        "sunrise": 1655297186,
+        "sunset": 1655350374
+    },
+    "timezone": -25200,
+    "id": 5327684,
+    "name": "Berkeley",
+    "cod": 200
+}
